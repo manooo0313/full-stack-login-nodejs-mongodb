@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb://localhost/node-mongodb-login",
+    "secret": "I love Piran"
+}
